@@ -1,4 +1,4 @@
-const symbols = ['🍒', '🍊', '🍇', '🔔', '💎'];
+const symbols = ['🐽', '🐖',];
 
 function spinReels() {
   const reels = document.querySelectorAll('.reel');
